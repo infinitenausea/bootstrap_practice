@@ -1,0 +1,82 @@
+.logo {
+    background-color: #aee6f7;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.top-nav {
+    background-color: #26bef5;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.social {
+    background-color: #79d7f1;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.hero {
+    background-color: #badfc0;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.action {
+    background-color: #72c291;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.left {
+    background-color: #ebd9a9;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.ad {
+    background-color: #04b355;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.article {
+    background-color: #eec231;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.right {
+    background-color: #f5dc8b;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.footer {
+    background-color: #0578cf;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.block {
+    margin-bottom: 0;
+}
+
+.section {
+    margin-bottom: 0;
+}
+
+.full-height {
+    height: 100%;
+}

@@ -1,0 +1,14 @@
+.box {
+    text-align: center;
+    padding: 10px;
+    background-color: #8f8b8b;
+    border: 2px solid black;
+    border-radius: 7px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.row {
+    --bs-gutter-x: 0.5rem;
+}
